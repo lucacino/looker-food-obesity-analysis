@@ -1,4 +1,4 @@
-# Looker Studio — Food Consumption & Global Obesity 🥗
+# Looker Studio — Food Consumption & Global Obesity
 
 > Studio sulla correlazione tra consumi alimentari (animali vs vegetali) e tassi di obesità in 170+ paesi, con dashboard interattiva su Looker Studio.
 
