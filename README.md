@@ -71,7 +71,7 @@ Visualizzazione sovrapposta di derivati animali, vegetali, zuccheri, alcol e obe
 
 ## Dashboard Looker Studio
 
-🔗 **[Visualizza la Dashboard]([INSERISCI_LINK](https://datastudio.google.com/u/0/reporting/5e5fd869-bc1f-4070-aeb1-3dfe2543e2ea/page/bi2nF))**
+🔗 **[Visualizza la Dashboard](https://datastudio.google.com/u/0/reporting/5e5fd869-bc1f-4070-aeb1-3dfe2543e2ea/page/bi2nF)**
 
 La dashboard include:
 - Mappe di calore geografiche (consumo animale / vegetale)
